@@ -44,7 +44,7 @@ Each agent receives its own, local observation. (So, multi-agent learning).
 If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.
 
 ## State Space
-The observation space consists of 8 variables corresponding to the position and velocity of the ball and racket.
+There are 2 agents. Each observes a state with length: 24.
 
 ## Actions
 Two continuous actions
