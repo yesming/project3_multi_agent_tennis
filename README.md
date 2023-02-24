@@ -54,3 +54,13 @@ movement toward(or away from) the net, and jumping
 ```
 
 ## Result
+The agent was successfully learned the purpose. At the end of learning, the agents get a reward more than 0.5.
+
+Video of the early phase :
+![Result_1](./tennis_start.gif)
+
+Video of the final phase
+![Result_1](./tennis_learning.gif)
+
+The history of reward
+![Result](output.png)
